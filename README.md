@@ -1,13 +1,5 @@
 # Awesome CTO
 
-> &mdash; Hi, my name is Dima and I'm CTO
->
-> &mdash; (chorus) Hello, Dima
-
-
-A curated **and opinionated** list of resources for Chief Technology Officers and VP R&D, with the emphasis on startups and hyper-growth companies
-
-
 ## Contents
 
  * [General](#general)
@@ -241,7 +233,3 @@ A curated **and opinionated** list of resources for Chief Technology Officers an
  * [Awesome CTO Resources](https://github.com/mateusz-brainhub/awesome-cto-resources) *(GitHub)*
  * [Free Tools for Developers](https://free-for.dev)
  
- 
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
